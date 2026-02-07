@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test output
+*.test
+*.out
+*.log
+
+# Audio files
+*.mp3
+*.wav
+
+# Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go dependencies
+vendor/
